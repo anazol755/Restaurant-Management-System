@@ -1,13 +1,5 @@
 # Restaurant Management System (RMS)
 
-## CSDP 404 Spring 2024
-**Course**: Database Management Systems - Final Project  
-**Instructor**: Amir Gawish  
-**Date**: May 12, 2024  
-**University**: University of Maryland Eastern Shore  
-
----
-
 ## Introduction
 
 The Restaurant Management System (RMS) is a pivotal tool in the modern restaurant industry, where efficiency, accuracy, and customer satisfaction are essential. Managing resources, processing orders swiftly, and providing top-notch service are critical for a restaurant's success in a competitive environment.
