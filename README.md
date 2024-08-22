@@ -44,3 +44,9 @@ In the sections that follow, we will explore the RMS in detail, from the creatio
 ---
 ![EER dragram drawio](https://github.com/user-attachments/assets/435dfd97-52ec-401c-8ece-0779aab8e288)
 
+---
+
+## Schema Diagram
+
+The Schema Diagram illustrates the structure of the database for the Restaurant Management System:
+
