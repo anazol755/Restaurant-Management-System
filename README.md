@@ -42,5 +42,5 @@ In the sections that follow, we will explore the RMS in detail, from the creatio
 4. **Inventory Items-Menu Items (One-to-Many)**: Represents the relationship between inventory items and menu items. Each menu item may require multiple inventory items, but an inventory item may be used in multiple menu items.
 
 ---
-
+![EER dragram drawio](https://github.com/user-attachments/assets/435dfd97-52ec-401c-8ece-0779aab8e288)
 
