@@ -1,0 +1,39 @@
+MenuItems
+-
+ItemID PK int FK >- InventoryItems.ItemID
+ItemName  varchar(100)
+Description varchar(100)
+Price money
+Category varchar(100)
+OrderID int FK >- Orders.OrderID
+
+Orders
+-
+OrderID PK int 
+CustomerID int FK >- Customers.CustomerID
+OrderDate dateTime 
+EmployeeID int FK  >- Employees.EmployeeID
+TotalAmount money
+
+Customers
+-
+CustomerID PK int
+FirstName varchar(100)
+LastName varchar(100)
+Phone varchar(100)
+Email varchar(100)
+
+Employees
+-
+EmployeeID PK int
+FirstName varchar(100)
+LastName varchar(100)
+Position varchar(100)
+HireDate dateTime
+
+InventoryItems
+-
+ItemID PK int FK 
+ItemName varchar(100)
+QuantityAvailable int
+ReorderLevel int
