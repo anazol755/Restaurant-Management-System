@@ -49,4 +49,6 @@ In the sections that follow, we will explore the RMS in detail, from the creatio
 ## Schema Diagram
 
 The Schema Diagram illustrates the structure of the database for the Restaurant Management System:
+---
+![shema diagram](https://github.com/user-attachments/assets/de2d6fdb-5e52-4409-bc17-e34711a74962)
 
