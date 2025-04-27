@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Restaurant Management System (RMS) is a pivotal tool in the modern restaurant industry, where efficiency, accuracy, and customer satisfaction are essential. Managing resources, processing orders swiftly, and providing top-notch service are critical for a restaurant's success in a competitive environment.
+The Restaurant Management System (RMS) where efficiency, accuracy, and customer satisfaction are essential. Managing resources, processing orders swiftly, and providing top-notch service are critical for a restaurant's success in a competitive environment.
 
 RMS offers a comprehensive solution to these challenges by managing various aspects of restaurant operations, from menu items and order processing to inventory management and staff organization. It also helps maintain customer records, ensuring a seamless dining experience. By automating routine tasks and providing real-time insights into performance metrics, RMS empowers restaurant owners and managers to make informed decisions, refine strategies, and enhance operational efficiency.
 
